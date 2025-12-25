@@ -1,0 +1,8 @@
+{
+  "name": "GlassHabit - Modern Life Tracker",
+  "description": "A Gen-Z aesthetic habit tracker with AI integration, gamification, and robust analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
